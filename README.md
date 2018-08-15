@@ -31,6 +31,7 @@ ex: in Proc. IEEE Int'l Conference on Distributed Computing Systems (ICDCS)
 
 
 [編譯方式] \
+打開 my_nctu_thesis.tex, 然後編譯 \
 xelatex -> bibtex -> xelatex -> xelatex
 
 ps1. 我也不知道為啥要跑兩次xelatex \
