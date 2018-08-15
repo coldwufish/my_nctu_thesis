@@ -6,6 +6,7 @@ latex template for NCTU thesis
 想參考學校格式, 可以看NCTU_files裡面的pdf檔
 
 by wufish@gmail
+
 ======================================================================
 1. 修改個人資料
 frontpages/my_names.tex
