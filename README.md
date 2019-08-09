@@ -38,3 +38,7 @@ ps1. 我也不知道為啥要跑兩次xelatex \
 ps2. 跑完之後就會出現pdf, 我習慣事後再去開檔案 \
 ps3. 沒有買, 現在值得入手PS3嗎 \
 ps4. 現在好像很多PS4遊戲了, 可是我已經買switch了 \
+
+
+[補充]
+IEEE reference format: https://ieeeauthorcenter.ieee.org/wp-content/uploads/IEEE-Reference-Guide.pdf
